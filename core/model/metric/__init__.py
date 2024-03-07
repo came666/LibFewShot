@@ -11,3 +11,5 @@ from .relation_net import RelationNet
 from .feat import FEAT
 from .dsn import DSN
 from .deepbdc import DeepBDC
+from .frn import FRN
+from .dn4_st import DN4_ST
